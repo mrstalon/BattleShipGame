@@ -1,0 +1,1 @@
+INSERT into users (name, age, email) values ('Michael', 22, 'mrstalonfadeaway@mail.ru');

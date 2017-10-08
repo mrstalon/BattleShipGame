@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LearnAjax:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="LearnAjax-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="LearnAjax:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+gameMenuCode\WaitingForOtherPlayer.class
+registration\RedirectingAfterReg.class
+CheckIsGameEnded.class
+gameMenuCode\RedirectingAfterEndingGame.class
+PreGameState.class
+TimerResponser.class
+database\DeleteBattleFromDataBase.class
+registration\Login.class
+BothPlayersReady.class
+registration\Registration.class
+gameMenuCode\FindingGame.class
+Shooting.class
+TurnChecker.class
